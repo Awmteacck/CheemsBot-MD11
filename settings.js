@@ -15,15 +15,15 @@ global.sessionid ='ur session id'
 
 //owmner v card
 global.ytname = "Awmtea Polythene" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "GitHub: Awmteacck" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Mr.Bot MD V11' //ur bot name
+global.botname = 'Mr.Bot ' //ur bot name
 global.ownernumber = '918787651195' //ur owner number
 global.ownername = 'Awmtea Polythene' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.wagc = "https://chat.whatsapp.com/F9QXvbox9coF5WArLbPwLA"
 global.themeemoji = '🪀'
 global.wm = "Mr.Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
@@ -36,7 +36,7 @@ global.hituet = 0
 
 //bot sett
 global.typemenu = 'v8' // menu type 'v1' => 'v8'
-global.typereply = 'v2' // reply type 'v1' => 'v3'
+global.typereply = 'v3' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
@@ -53,7 +53,7 @@ global.mess = {
     success: 'Here you go!'
 }
 //thumbnail
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('https://telegra.ph/file/c76167f3754f68319f250.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
