@@ -19,13 +19,13 @@ global.socialm = "GitHub: Awmteacck" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Mr.Bot ' //ur bot name
+global.botname = 'Flex' //ur bot name
 global.ownernumber = '918787651195' //ur owner number
 global.ownername = 'Awmtea Polythene' //ur owner name
-global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://chat.whatsapp.com/F9QXvbox9coF5WArLbPwLA"
+global.websitex = "https://www.youtube.com/@awmtea-polythene"
+global.wagc = "https://chat.whatsapp.com/JBbKL5yvcBP0bs2ElQy4Oj"
 global.themeemoji = '🪀'
-global.wm = "Mr.Bot Inc."
+global.wm = "Flex Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
 global.author = "Awmtea\n\n+918787651195"
